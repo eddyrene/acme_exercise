@@ -62,10 +62,10 @@ The amount to pay ASTRID is: 85 USD
 
 # Solution
 
-Code written in python to solve the problem, it was implemented funtions to solve it.
+Simple code resume to solve problem for calculate total salary of workers.
 
 # Run 
 
-python acme_salary.py <INPut text>
+python acme_salary.py <INPUT text>
 
 
