@@ -66,6 +66,6 @@ Simple code resume to solve problem for calculate total salary of workers.
 
 # Run 
 
-python acme_salary.py <INPUT text>
+python acme_salary.py [INPUT text]
 
 
